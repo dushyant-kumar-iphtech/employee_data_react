@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Deepak",
+    "img": "https://www.realmenrealstyle.com/wp-content/uploads/2023/08/Attractive-Older-Men-Are-Confident.jpg",
+    "email": "deepak@gmail.com",
+    "employment": "Software Engineer",
+    "dob": "2001-05-20",
+    "city": "Lucknow",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Alambagh"
+  },
+  {
+    "id": 2,
+    "name": "Roshan",
+    "img": "https://st2.depositphotos.com/35606960/47025/i/450/depositphotos_470253780-stock-photo-portrait-handsome-young-guy-wearing.jpg",
+    "email": "roshan@gmail.com",
+    "employment": "Intern",
+    "dob": "2001-05-20",
+    "city": "Lucknow",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Alambagh"
+  },
+  {
+    "id": 3,
+    "name": "Pratik",
+    "img": "https://media.istockphoto.com/id/583710772/photo/man-looking-at-camera.jpg?s=612x612&w=0&k=20&c=S0sW-8RJnc61XMIvM6Y9_M1E5J5HQk4v0hK5V5DQCgM=",
+    "email": "pratik@gmail.com",
+    "employment": "HR",
+    "dob": "2000-06-20",
+    "city": "Etah",
+    "state": "UP",
+    "phone": 7895007890,
+    "address": "Shanti Nagar"
+  },
+  {
+    "id": 4,
+    "name": "Anshu",
+    "img": "https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg",
+    "email": "anshul@gmail.com",
+    "employment": "Manager",
+    "dob": "2001-05-20",
+    "city": "Lucknow",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Alambagh"
+  },
+  {
+    "id": 5,
+    "name": "Shubham",
+    "img": "https://www.shutterstock.com/image-photo/headshot-portrait-happy-millennial-man-260nw-1548802709.jpg",
+    "email": "shubham@gmail.com",
+    "employment": "HR",
+    "dob": "1999-06-28",
+    "city": "Bhopal",
+    "state": "MP",
+    "phone": 7895007985,
+    "address": "MP Nagar"
+  },
+  {
+    "id": 6,
+    "name": "Prakhar",
+    "img": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "email": "prakhar@gmail.com",
+    "employment": "CTO",
+    "dob": "2002-01-01",
+    "city": "Banaras",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Banaras"
+  },
+  {
+    "id": 7,
+    "name": "Himanshu",
+    "img": "https://st4.depositphotos.com/12985790/23389/i/450/depositphotos_233890500-stock-photo-portrait-handsome-businessman-formal-wear.jpg",
+    "email": "himanshu@gmail.com",
+    "employment": "Intern",
+    "dob": "1998-07-23",
+    "city": "Lucknow",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Alambagh"
+  },
+  {
+    "id": 8,
+    "name": "Ankit",
+    "img": "https://i0.wp.com/ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png?fit=570%2C570&ssl=1",
+    "email": "ankit@gmail.com",
+    "employment": "Software Engineer",
+    "dob": "2002-02-12",
+    "city": "Lucknow",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Alambagh"
+  },
+  {
+    "id": 9,
+    "name": "Spriyha",
+    "img": "https://i0.wp.com/ctmirror-images.s3.amazonaws.com/wp-content/uploads/2021/01/dummy-man-570x570-1.png?fit=570%2C570&ssl=1",
+    "email": "spriyha@gmail.com",
+    "employment": "Intern",
+    "dob": "2000-01-13",
+    "city": "Banaras",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Durga Kund"
+  },
+  {
+    "id": 10,
+    "name": "Naveen",
+    "img": "https://st4.depositphotos.com/12985790/23389/i/450/depositphotos_233890500-stock-photo-portrait-handsome-businessman-formal-wear.jpg",
+    "email": "naveen@gmail.com",
+    "employment": "Software Engineer",
+    "dob": "2001-07-21",
+    "city": "Lucknow",
+    "state": "UP",
+    "phone": 7895007895,
+    "address": "Alambagh"
+  }
+]
